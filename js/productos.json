@@ -1,0 +1,17 @@
+[
+    { "id": 1, "imagen": "images/abrigos.jpg", "nombre": "Abrigos", "precio": 220},
+    { "id": 2, "imagen": "images/buzos.jpg", "nombre": "Buzos", "precio": 200},
+    { "id": 3, "imagen": "images/camisas.jpg", "nombre": "Camisas", "precio": 280},
+    { "id": 4, "imagen": "images/camperones.jpg", "nombre": "Camperones", "precio": 350},
+    { "id": 5, "imagen": "images/faldas.jpg", "nombre": "Faldas", "precio": 320},
+    { "id": 6, "imagen": "images/jeans.jpg", "nombre": "Jeans", "precio": 140},
+    { "id": 7, "imagen": "images/pantalones.jpg", "nombre": "Pantalones", "precio": 270},
+    { "id": 8, "imagen": "images/remeras.jpg", "nombre": "Remeras", "precio": 200},
+    { "id": 9, "imagen": "images/sweters.jpg", "nombre": "Sweters", "precio": 310},
+    { "id": 10, "imagen": "images/zapatos.jpg", "nombre": "Zapatos", "precio": 650},
+    { "id": 11, "imagen": "images/accesorios.jpg", "nombre": "Accesorios", "precio": 290},
+    { "id": 12, "imagen": "images/maquillaje.jpg", "nombre": "Maquillaje", "precio": 700},
+    { "id": 13, "imagen": "images/bolsos.jpg", "nombre": "Bolsos", "precio": 320},
+    { "id": 14, "imagen": "images/carteras.jpg", "nombre": "Carteras", "precio": 1100}
+   
+]

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CurvyLooks</title>
+    <link rel="icon" href="images/icons8-dress-64.png" type="image/jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/storage.js"></script>
+    <script src="js/templates.js"></script>
+    <script defer src="js/checkout.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+
+<body>
+    <nav class="navbar__menu">
+        <a href="index.html"><img src="/images/icons8-dress-64.png" alt=""></a>
+        <a href="index.html">Inicio</a>
+        <a href="#">Productos</a>
+        <a href="checkout.html">Carrito</a>
+        <a href="#">Contacto</a>
+    </nav>
+    <header>
+        <h1>CurvyLooks</h1>
+        <p>Revisa tus Prendas seleccionadas antes de presionar el boton COMPRAR:</p>
+        <div class="centrar-div">
+            <button class="button button-outline"><a href="index.html">Seguir comprando</a></button>
+        </div>
+        <hr>
+    </header>
+    <main>
+        <section>
+            <table>
+                <thead>
+                    <tr>
+                        <th id="tablehead">Prenda</th>
+                        <th id="tablehead">Detalles</th>
+                        <th id="tablehead">Precio</th>
+                        <th id="tablehead">Eliminar</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </section>
+        <div class="centrar-div">
+            <p>Total: $ <span>0.00</span></p>
+        </div>
+        <div class="centrar-div">
+            <button class="button" id="btnComprar">COMPRAR</button>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-content">
+            <P>Romina Vegas</P>
+            <p>CurvyLooks &copy; 2023</p>
+
+        </div>
+    </footer>
+
+</body>
+
+</html>
